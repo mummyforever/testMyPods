@@ -21,6 +21,7 @@
     
     GDRCTestView *view = [[GDRCTestView alloc] initWithFrame:self.view.bounds];
     [self.view addSubview:view];
+    
 }
 
 
